@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Internet Technologies and Web Design</title>
+</head>
+<body>
+  <p>&amp; Hello world. This is my first website!</p>
+  <p>Instructions: rewrite this page by adding a few sentences about yourself. Follow the instructions in README.md to turn it in.</p>
+  <p>My Name is Vaughn Zamudio, I'm a First Year GEM major.</p>
+  <p>I have lived in Chicago My entire life and have never been out of the Country.</p>
+  <p>I used to have a dog when I was little and I have been wanting to get another pet sometime soon.</p>
+</body>
+</html>
